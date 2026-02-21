@@ -13,10 +13,10 @@ Building scalable web applications with clean architecture and performance optim
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Graduate (2025)
-- 💻 Specialized in MERN Stack Development
-- 🔐 Experienced in REST APIs & JWT Authentication
-- 🚀 Built AI SaaS Platform, Job Portal & Crypto Tracker
-- 📈 Currently improving Backend & System Design skills
+- 💻 MERN Stack Developer with hands-on project experience
+- 🔐 Built secure REST APIs with JWT Authentication
+- 🚀 Developed AI SaaS Platform, Job Portal & Crypto Tracker
+- 📈 Currently improving Backend Architecture & System Design
 - 🎯 Actively seeking entry-level Full Stack Developer roles
 
 ---
@@ -42,6 +42,14 @@ Building scalable web applications with clean architecture and performance optim
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render" />
 </p>
+
+---
+
+## 📌 Highlight Projects
+
+🔹 **AI SaaS Platform** – OpenAI API integration with PostgreSQL  
+🔹 **Job Portal** – Full-featured REST API & recruiter dashboard  
+🔹 **Crypto Price Tracker** – Real-time API integration & data visualization
 
 ---
 
@@ -72,9 +80,15 @@ Building scalable web applications with clean architecture and performance optim
 ## 🌐 Connect With Me
 
 <p>
+
 <a href="https://www.linkedin.com/in/shaikh-siddique-9978b425a/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
 </a>
+
+<a href="mailto:sheikhsiddique9630@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="35" />
+</a>
+
 </p>
 
 ---
