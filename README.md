@@ -72,7 +72,7 @@ Building scalable web applications with clean architecture and performance optim
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/shaikh-siddique">
+<a href="https://www.linkedin.com/in/shaikh-siddique-9978b425a/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
 </a>
 </p>
